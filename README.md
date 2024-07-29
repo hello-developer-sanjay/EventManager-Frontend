@@ -1,4 +1,6 @@
 # Event Management Application
+![Event Management Logo](https://sanjaybasket.s3.ap-south-1.amazonaws.com/eventmanager-logo.png)
+
 
 ## Description
 
