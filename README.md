@@ -1,14 +1,14 @@
-# Event Management Application
-![Event Management Logo](https://sanjaybasket.s3.ap-south-1.amazonaws.com/eventmanager-logo.png)
+# EventPro: Your Event, Perfectly Planned
+![EventPro](https://sanjaybasket.s3.ap-south-1.amazonaws.com/eventpro-logo.png)
 
 
 ## Description
 
-This is an Event Management Application that allows users to manage events, including creating, editing, and viewing events. The application is designed with a modern, responsive interface and is built using React.js, Redux for state management, and a backend server.
+EventPro simplifies event planning with seamless organization, real-time updates, and easy collaboration, ensuring your event is perfectly executed every time. The application is designed with a modern, responsive interface and is built using React.js, Redux for state management, and a backend server.
 
 ## Live Demo
 
-You can view the live application [here](https://event-manager-two.vercel.app/).
+You can view the live application [here](https://eventpro.vercel.app/).
 
 ## Table of Contents
 
@@ -51,35 +51,35 @@ src/
 
 ## Pages and Components
 
-### [AddEventPage](https://event-manager-two.vercel.app/add-event)
+### [AddEventPage](https://eventpro.vercel.app/add-event)
 
 The `AddEventPage` allows users to add new events or edit existing ones. It features a form to input event details and handles both creation and updates based on whether an event ID is provided.
 
-### [Dashboard](https://event-manager-two.vercel.app/dashboard)
+### [Dashboard](https://eventpro.vercel.app/dashboard)
 
 The `Dashboard` provides an overview of the user's events. It displays a summary or list of events and may include widgets or analytics related to event management.
 
-### [EditEventPage](https://event-manager-two.vercel.app/add-event/:id)
+### [EditEventPage](https://eventpro.vercel.app/add-event/:id)
 
 The `EditEventPage` is used to modify existing events. It retrieves the event details based on the provided ID and allows users to make changes and save them.
 
-### [ForgotPassword](https://event-manager-two.vercel.app/forgot-password)
+### [ForgotPassword](https://eventpro.vercel.app/forgot-password)
 
 The `ForgotPassword` page enables users to request a password reset link. They enter their email address, and if it matches an account, a reset link is sent.
 
-### [ListEventsPage](https://event-manager-two.vercel.app/list-events)
+### [ListEventsPage](https://eventpro.vercel.app/list-events)
 
 The `ListEventsPage` displays a list of all events. Users can view event details, and the page may include sorting and filtering options.
 
-### [Register](https://event-manager-two.vercel.app/register)
+### [Register](https://eventpro.vercel.app/register)
 
 The `Register` page allows new users to sign up for an account. It includes a registration form where users input their information to create a new account.
 
-### [ResetPassword](https://event-manager-two.vercel.app/reset-password/:token)
+### [ResetPassword](https://eventpro.vercel.app/reset-password/:token)
 
 The `ResetPassword` page is accessed via a link sent to the user's email. It allows users to set a new password using the provided token.
 
-### [SignInSignUp](https://event-manager-two.vercel.app/login)
+### [SignInSignUp](https://eventpro.vercel.app/login)
 
 The `SignInSignUp` component handles both user login and registration. It provides a form for users to log in or sign up for an account.
 
