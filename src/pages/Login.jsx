@@ -187,7 +187,7 @@ const Login = () => {
   return (
     <Container>
       <LoginForm onSubmit={handleSubmit}>
-        <Title aria-label="EventEase Title">EventEase</Title>
+        <Title aria-label="EventPro Title">EventPro</Title>
         <Input
           type="email"
           placeholder="Email"
