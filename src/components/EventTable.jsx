@@ -53,23 +53,21 @@ const EventTable = ({ setEditEvent }) => {
     return (
         <div>
             <Helmet>
-                <title>EventEase - Your Ultimate Event Management Tool</title>
-                <meta name="description" content="EventEase is the ultimate tool for managing your events with seamless Google Calendar synchronization. Stay organized and manage your events effortlessly." />
-                <meta property="og:title" content="EventEase Login - Unlock the Magic of Learning" />
-                <meta property="og:description" content="EventEase is the ultimate tool for managing your events with seamless Google Calendar synchronization. Stay organized and manage your events effortlessly." />
+                <title>EventPro: Your Event, Perfectly Planned</title>
+                <meta name="description" content="EventPro simplifies event planning with seamless organization, real-time updates, and easy collaboration, ensuring your event is perfectly executed every time." />
+                <meta property="og:title" content="EventPro: Your Event, Perfectly Planned" />
+                <meta property="og:description" content="EventPro simplifies event planning with seamless organization, real-time updates, and easy collaboration, ensuring your event is perfectly executed every time." />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://HogwartsEdX.vercel.app/login" />
-                <meta property="og:image" content="https://sanjaybasket.s3.ap-south-1.amazonaws.com/HogwartsEdX/hogwartscertify.png" />
+                <meta property="og:image" content="https://sanjaybasket.s3.ap-south-1.amazonaws.com/eventpro-logo.png" />
                 <meta property="og:image:alt" content="Sanjay Patidar" />
-                <meta property="og:site_name" content="EventEase Login - Unlock the Magic of Learning" />
-                <link rel="canonical" href="https://HogwartsEdX.vercel.app/login" />
+                <meta property="og:site_name" content="EventPro: Your Event, Perfectly Planned" />
                 <meta name="twitter:card" content="summary_large_image" />
-                <meta name="twitter:title" content="EventEase Login - Unlock the Magic of Learning" />
-                <meta name="twitter:description" content="EventEase is the ultimate tool for managing your events with seamless Google Calendar synchronization. Stay organized and manage your events effortlessly." />
-                <meta name="twitter:image" content="https://sanjaybasket.s3.ap-south-1.amazonaws.com/HogwartsEdX/hogwartscertify.png" />
+                <meta name="twitter:title" content="EventPro: Your Event, Perfectly Planned" />
+                <meta name="twitter:description" content="EventPro simplifies event planning with seamless organization, real-time updates, and easy collaboration, ensuring your event is perfectly executed every time." />
+                <meta name="twitter:image" content="https://sanjaybasket.s3.ap-south-1.amazonaws.com/eventpro-logo.png" />
                 <meta name="twitter:site" content="@sanjaypatidar" />
                 <meta name="twitter:creator" content="@sanjaypatidar" />
-                <meta name="keywords" content="portfolio, verification, certificate verify, certification verification, signup, eduxcel, founder: Sanjay Patidar, tech, education, careers, opportunity, personal-portfolio, developer_sanju, sanjay, Sanjay, SANJAY, Sanjay Patidar, SANJAY PATIDAR, SANJAY WEB DEVELOPER, SANJAY DEVELOPER, Full Stack Web Developer, Mern Stack Web Developer, sanjay patidar, sanjay-patidar, professional, web developer portfolio, coder, web development, UI/UX design, Chandigarh University, EduXcel, Indore, contact, developer, programmer, engineer, AI, Artificial Intelligence, tech enthusiast, creativity, creator, work, technology, coding, projects, experiences, resume, cv" />
+                <meta name="keywords" content="event management, EventPro, event login, event dashboard, event planning, event organizer, event access, event management system, secure event login, event management tools,portfolio, verification, certificate verify, certification verification, signup, eduxcel, founder: Sanjay Patidar, tech, education, careers, opportunity, personal-portfolio, developer_sanju, sanjay, Sanjay, SANJAY, Sanjay Patidar, SANJAY PATIDAR, SANJAY WEB DEVELOPER, SANJAY DEVELOPER, Full Stack Web Developer, Mern Stack Web Developer, sanjay patidar, sanjay-patidar, professional, web developer portfolio, coder, web development, UI/UX design, Chandigarh University, EduXcel, Indore, contact, developer, programmer, engineer, AI, Artificial Intelligence, tech enthusiast, creativity, creator, work, technology, coding, projects, experiences, resume, cv" />
                 <meta name="author" content="Sanjay Patidar" />
                 <script type="application/ld+json">
                     {JSON.stringify({
